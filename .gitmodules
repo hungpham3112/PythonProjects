@@ -1,3 +1,6 @@
 [submodule "hungpham3112"]
 	path = hungpham3112
 	url = https://github.com/hungpham3112/hungpham3112.git
+[submodule "AI-Web"]
+	path = AI-Web
+	url = https://github.com/hungpham3112/AI-Web.git
