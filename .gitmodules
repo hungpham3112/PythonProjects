@@ -4,3 +4,6 @@
 [submodule "AI-Web"]
 	path = AI-Web
 	url = https://github.com/hungpham3112/AI-Web.git
+[submodule "About_us"]
+	path = About_us
+	url = https://github.com/hunpham3112/hungpham3112
