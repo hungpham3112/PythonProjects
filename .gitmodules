@@ -7,3 +7,6 @@
 [submodule "About_us"]
 	path = About_us
 	url = https://github.com/hunpham3112/hungpham3112
+[submodule "SummarizationApp"]
+	path = SummarizationApp
+	url = https://github.com/hungpham3112/text_summarizer_web_app
