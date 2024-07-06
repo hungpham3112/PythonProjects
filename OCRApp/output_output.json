@@ -1,0 +1,1525 @@
+[
+    [
+        {
+            "text": "Abstract",
+            "location": {
+                "x": 313,
+                "y": 33,
+                "width": 93,
+                "height": 18
+            }
+        },
+        {
+            "text": "Inspired",
+            "location": {
+                "x": 22,
+                "y": 80,
+                "width": 60,
+                "height": 17
+            }
+        },
+        {
+            "text": "by",
+            "location": {
+                "x": 91,
+                "y": 80,
+                "width": 18,
+                "height": 17
+            }
+        },
+        {
+            "text": "the",
+            "location": {
+                "x": 119,
+                "y": 80,
+                "width": 22,
+                "height": 13
+            }
+        },
+        {
+            "text": "Kolmogorov-Arnold",
+            "location": {
+                "x": 149,
+                "y": 80,
+                "width": 153,
+                "height": 17
+            }
+        },
+        {
+            "text": "representation",
+            "location": {
+                "x": 311,
+                "y": 80,
+                "width": 105,
+                "height": 17
+            }
+        },
+        {
+            "text": "theorem,",
+            "location": {
+                "x": 426,
+                "y": 80,
+                "width": 64,
+                "height": 16
+            }
+        },
+        {
+            "text": "we",
+            "location": {
+                "x": 500,
+                "y": 83,
+                "width": 21,
+                "height": 9
+            }
+        },
+        {
+            "text": "propose",
+            "location": {
+                "x": 530,
+                "y": 83,
+                "width": 59,
+                "height": 13
+            }
+        },
+        {
+            "text": "Kolmogorov-",
+            "location": {
+                "x": 598,
+                "y": 80,
+                "width": 99,
+                "height": 17
+            }
+        },
+        {
+            "text": "Arnold",
+            "location": {
+                "x": 22,
+                "y": 105,
+                "width": 52,
+                "height": 13
+            }
+        },
+        {
+            "text": "Networks",
+            "location": {
+                "x": 81,
+                "y": 105,
+                "width": 72,
+                "height": 13
+            }
+        },
+        {
+            "text": "(KANs)",
+            "location": {
+                "x": 161,
+                "y": 105,
+                "width": 58,
+                "height": 17
+            }
+        },
+        {
+            "text": "as",
+            "location": {
+                "x": 227,
+                "y": 110,
+                "width": 14,
+                "height": 9
+            }
+        },
+        {
+            "text": "promising",
+            "location": {
+                "x": 249,
+                "y": 105,
+                "width": 74,
+                "height": 17
+            }
+        },
+        {
+            "text": "alternatives",
+            "location": {
+                "x": 331,
+                "y": 105,
+                "width": 84,
+                "height": 13
+            }
+        },
+        {
+            "text": "to",
+            "location": {
+                "x": 422,
+                "y": 107,
+                "width": 14,
+                "height": 11
+            }
+        },
+        {
+            "text": "Multi-Layer",
+            "location": {
+                "x": 443,
+                "y": 105,
+                "width": 91,
+                "height": 17
+            }
+        },
+        {
+            "text": "Perceptrons",
+            "location": {
+                "x": 540,
+                "y": 106,
+                "width": 87,
+                "height": 17
+            }
+        },
+        {
+            "text": "(MLPs).",
+            "location": {
+                "x": 636,
+                "y": 105,
+                "width": 61,
+                "height": 17
+            }
+        },
+        {
+            "text": "While",
+            "location": {
+                "x": 22,
+                "y": 131,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "MLPs",
+            "location": {
+                "x": 73,
+                "y": 131,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "have",
+            "location": {
+                "x": 125,
+                "y": 131,
+                "width": 34,
+                "height": 13
+            }
+        },
+        {
+            "text": "fixed",
+            "location": {
+                "x": 162,
+                "y": 131,
+                "width": 38,
+                "height": 17
+            }
+        },
+        {
+            "text": "activation",
+            "location": {
+                "x": 207,
+                "y": 131,
+                "width": 71,
+                "height": 13
+            }
+        },
+        {
+            "text": "functions",
+            "location": {
+                "x": 286,
+                "y": 131,
+                "width": 68,
+                "height": 13
+            }
+        },
+        {
+            "text": "on",
+            "location": {
+                "x": 360,
+                "y": 135,
+                "width": 18,
+                "height": 9
+            }
+        },
+        {
+            "text": "nodes",
+            "location": {
+                "x": 384,
+                "y": 131,
+                "width": 43,
+                "height": 13
+            }
+        },
+        {
+            "text": "(\u201cneurons\u201d),",
+            "location": {
+                "x": 434,
+                "y": 131,
+                "width": 91,
+                "height": 17
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 532,
+                "y": 131,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "have",
+            "location": {
+                "x": 586,
+                "y": 132,
+                "width": 34,
+                "height": 13
+            }
+        },
+        {
+            "text": "learnable",
+            "location": {
+                "x": 627,
+                "y": 131,
+                "width": 70,
+                "height": 13
+            }
+        },
+        {
+            "text": "activation",
+            "location": {
+                "x": 23,
+                "y": 157,
+                "width": 72,
+                "height": 13
+            }
+        },
+        {
+            "text": "functions",
+            "location": {
+                "x": 102,
+                "y": 157,
+                "width": 68,
+                "height": 13
+            }
+        },
+        {
+            "text": "on",
+            "location": {
+                "x": 179,
+                "y": 161,
+                "width": 18,
+                "height": 9
+            }
+        },
+        {
+            "text": "edges",
+            "location": {
+                "x": 204,
+                "y": 157,
+                "width": 42,
+                "height": 17
+            }
+        },
+        {
+            "text": "(\u201cweights\u201d).",
+            "location": {
+                "x": 254,
+                "y": 157,
+                "width": 89,
+                "height": 17
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 358,
+                "y": 157,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "have",
+            "location": {
+                "x": 413,
+                "y": 157,
+                "width": 34,
+                "height": 13
+            }
+        },
+        {
+            "text": "no",
+            "location": {
+                "x": 455,
+                "y": 161,
+                "width": 18,
+                "height": 9
+            }
+        },
+        {
+            "text": "linear",
+            "location": {
+                "x": 480,
+                "y": 157,
+                "width": 42,
+                "height": 13
+            }
+        },
+        {
+            "text": "weights",
+            "location": {
+                "x": 530,
+                "y": 157,
+                "width": 57,
+                "height": 17
+            }
+        },
+        {
+            "text": "at",
+            "location": {
+                "x": 595,
+                "y": 160,
+                "width": 13,
+                "height": 11
+            }
+        },
+        {
+            "text": "all",
+            "location": {
+                "x": 615,
+                "y": 157,
+                "width": 18,
+                "height": 13
+            }
+        },
+        {
+            "text": "\u2014",
+            "location": {
+                "x": 640,
+                "y": 165,
+                "width": 10,
+                "height": 2
+            }
+        },
+        {
+            "text": "every",
+            "location": {
+                "x": 657,
+                "y": 161,
+                "width": 40,
+                "height": 13
+            }
+        },
+        {
+            "text": "weight",
+            "location": {
+                "x": 22,
+                "y": 183,
+                "width": 51,
+                "height": 17
+            }
+        },
+        {
+            "text": "parameter",
+            "location": {
+                "x": 79,
+                "y": 186,
+                "width": 74,
+                "height": 15
+            }
+        },
+        {
+            "text": "is",
+            "location": {
+                "x": 160,
+                "y": 183,
+                "width": 11,
+                "height": 13
+            }
+        },
+        {
+            "text": "replaced",
+            "location": {
+                "x": 177,
+                "y": 183,
+                "width": 63,
+                "height": 17
+            }
+        },
+        {
+            "text": "by",
+            "location": {
+                "x": 246,
+                "y": 183,
+                "width": 18,
+                "height": 17
+            }
+        },
+        {
+            "text": "a",
+            "location": {
+                "x": 271,
+                "y": 187,
+                "width": 7,
+                "height": 9
+            }
+        },
+        {
+            "text": "univariate",
+            "location": {
+                "x": 285,
+                "y": 183,
+                "width": 73,
+                "height": 13
+            }
+        },
+        {
+            "text": "function",
+            "location": {
+                "x": 364,
+                "y": 183,
+                "width": 61,
+                "height": 13
+            }
+        },
+        {
+            "text": "parametrized",
+            "location": {
+                "x": 432,
+                "y": 183,
+                "width": 97,
+                "height": 17
+            }
+        },
+        {
+            "text": "as",
+            "location": {
+                "x": 535,
+                "y": 187,
+                "width": 14,
+                "height": 9
+            }
+        },
+        {
+            "text": "a",
+            "location": {
+                "x": 557,
+                "y": 187,
+                "width": 7,
+                "height": 9
+            }
+        },
+        {
+            "text": "spline.",
+            "location": {
+                "x": 571,
+                "y": 183,
+                "width": 47,
+                "height": 17
+            }
+        },
+        {
+            "text": "We",
+            "location": {
+                "x": 628,
+                "y": 183,
+                "width": 24,
+                "height": 13
+            }
+        },
+        {
+            "text": "show",
+            "location": {
+                "x": 660,
+                "y": 183,
+                "width": 38,
+                "height": 13
+            }
+        },
+        {
+            "text": "that",
+            "location": {
+                "x": 23,
+                "y": 209,
+                "width": 27,
+                "height": 13
+            }
+        },
+        {
+            "text": "this",
+            "location": {
+                "x": 57,
+                "y": 209,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "seemingly",
+            "location": {
+                "x": 90,
+                "y": 209,
+                "width": 76,
+                "height": 17
+            }
+        },
+        {
+            "text": "simple",
+            "location": {
+                "x": 174,
+                "y": 209,
+                "width": 49,
+                "height": 17
+            }
+        },
+        {
+            "text": "change",
+            "location": {
+                "x": 230,
+                "y": 209,
+                "width": 52,
+                "height": 17
+            }
+        },
+        {
+            "text": "makes",
+            "location": {
+                "x": 289,
+                "y": 209,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 344,
+                "y": 209,
+                "width": 46,
+                "height": 13
+            }
+        },
+        {
+            "text": "outperform",
+            "location": {
+                "x": 398,
+                "y": 209,
+                "width": 83,
+                "height": 17
+            }
+        },
+        {
+            "text": "MLPs",
+            "location": {
+                "x": 488,
+                "y": 209,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "in",
+            "location": {
+                "x": 541,
+                "y": 209,
+                "width": 13,
+                "height": 13
+            }
+        },
+        {
+            "text": "terms",
+            "location": {
+                "x": 562,
+                "y": 211,
+                "width": 40,
+                "height": 11
+            }
+        },
+        {
+            "text": "of",
+            "location": {
+                "x": 610,
+                "y": 209,
+                "width": 16,
+                "height": 13
+            }
+        },
+        {
+            "text": "accuracy",
+            "location": {
+                "x": 632,
+                "y": 213,
+                "width": 65,
+                "height": 13
+            }
+        },
+        {
+            "text": "and",
+            "location": {
+                "x": 23,
+                "y": 236,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "interpretability,",
+            "location": {
+                "x": 55,
+                "y": 235,
+                "width": 113,
+                "height": 17
+            }
+        },
+        {
+            "text": "on",
+            "location": {
+                "x": 177,
+                "y": 240,
+                "width": 18,
+                "height": 9
+            }
+        },
+        {
+            "text": "small-scale",
+            "location": {
+                "x": 201,
+                "y": 236,
+                "width": 83,
+                "height": 13
+            }
+        },
+        {
+            "text": "AI",
+            "location": {
+                "x": 291,
+                "y": 236,
+                "width": 19,
+                "height": 13
+            }
+        },
+        {
+            "text": "+",
+            "location": {
+                "x": 317,
+                "y": 238,
+                "width": 10,
+                "height": 10
+            }
+        },
+        {
+            "text": "Science",
+            "location": {
+                "x": 333,
+                "y": 236,
+                "width": 58,
+                "height": 13
+            }
+        },
+        {
+            "text": "tasks.",
+            "location": {
+                "x": 398,
+                "y": 236,
+                "width": 40,
+                "height": 13
+            }
+        },
+        {
+            "text": "For",
+            "location": {
+                "x": 450,
+                "y": 236,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "accuracy,",
+            "location": {
+                "x": 481,
+                "y": 240,
+                "width": 68,
+                "height": 13
+            }
+        },
+        {
+            "text": "smaller",
+            "location": {
+                "x": 557,
+                "y": 236,
+                "width": 55,
+                "height": 13
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 618,
+                "y": 236,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "can",
+            "location": {
+                "x": 672,
+                "y": 240,
+                "width": 25,
+                "height": 9
+            }
+        },
+        {
+            "text": "achieve",
+            "location": {
+                "x": 23,
+                "y": 261,
+                "width": 56,
+                "height": 13
+            }
+        },
+        {
+            "text": "comparable",
+            "location": {
+                "x": 85,
+                "y": 261,
+                "width": 86,
+                "height": 17
+            }
+        },
+        {
+            "text": "or",
+            "location": {
+                "x": 178,
+                "y": 265,
+                "width": 15,
+                "height": 9
+            }
+        },
+        {
+            "text": "better",
+            "location": {
+                "x": 200,
+                "y": 261,
+                "width": 43,
+                "height": 13
+            }
+        },
+        {
+            "text": "accuracy",
+            "location": {
+                "x": 249,
+                "y": 265,
+                "width": 65,
+                "height": 13
+            }
+        },
+        {
+            "text": "than",
+            "location": {
+                "x": 321,
+                "y": 261,
+                "width": 31,
+                "height": 13
+            }
+        },
+        {
+            "text": "larger",
+            "location": {
+                "x": 359,
+                "y": 261,
+                "width": 43,
+                "height": 17
+            }
+        },
+        {
+            "text": "MLPs",
+            "location": {
+                "x": 409,
+                "y": 261,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "in",
+            "location": {
+                "x": 461,
+                "y": 260,
+                "width": 13,
+                "height": 13
+            }
+        },
+        {
+            "text": "function",
+            "location": {
+                "x": 482,
+                "y": 260,
+                "width": 61,
+                "height": 13
+            }
+        },
+        {
+            "text": "fitting",
+            "location": {
+                "x": 551,
+                "y": 260,
+                "width": 44,
+                "height": 17
+            }
+        },
+        {
+            "text": "tasks.",
+            "location": {
+                "x": 601,
+                "y": 261,
+                "width": 40,
+                "height": 13
+            }
+        },
+        {
+            "text": "Theo-",
+            "location": {
+                "x": 653,
+                "y": 261,
+                "width": 44,
+                "height": 13
+            }
+        },
+        {
+            "text": "retically",
+            "location": {
+                "x": 22,
+                "y": 286,
+                "width": 60,
+                "height": 17
+            }
+        },
+        {
+            "text": "and",
+            "location": {
+                "x": 90,
+                "y": 286,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "empirically,",
+            "location": {
+                "x": 122,
+                "y": 286,
+                "width": 87,
+                "height": 17
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 216,
+                "y": 287,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "possess",
+            "location": {
+                "x": 270,
+                "y": 290,
+                "width": 55,
+                "height": 13
+            }
+        },
+        {
+            "text": "faster",
+            "location": {
+                "x": 331,
+                "y": 286,
+                "width": 41,
+                "height": 13
+            }
+        },
+        {
+            "text": "neural",
+            "location": {
+                "x": 379,
+                "y": 286,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "scaling",
+            "location": {
+                "x": 431,
+                "y": 286,
+                "width": 52,
+                "height": 17
+            }
+        },
+        {
+            "text": "Jaws",
+            "location": {
+                "x": 490,
+                "y": 287,
+                "width": 32,
+                "height": 13
+            }
+        },
+        {
+            "text": "than",
+            "location": {
+                "x": 530,
+                "y": 286,
+                "width": 31,
+                "height": 13
+            }
+        },
+        {
+            "text": "MLPs.",
+            "location": {
+                "x": 567,
+                "y": 287,
+                "width": 49,
+                "height": 13
+            }
+        },
+        {
+            "text": "For",
+            "location": {
+                "x": 627,
+                "y": 287,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "inter-",
+            "location": {
+                "x": 658,
+                "y": 286,
+                "width": 39,
+                "height": 13
+            }
+        },
+        {
+            "text": "pretability,",
+            "location": {
+                "x": 22,
+                "y": 312,
+                "width": 79,
+                "height": 17
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 109,
+                "y": 312,
+                "width": 46,
+                "height": 13
+            }
+        },
+        {
+            "text": "can",
+            "location": {
+                "x": 162,
+                "y": 316,
+                "width": 26,
+                "height": 9
+            }
+        },
+        {
+            "text": "be",
+            "location": {
+                "x": 195,
+                "y": 312,
+                "width": 17,
+                "height": 13
+            }
+        },
+        {
+            "text": "intuitively",
+            "location": {
+                "x": 219,
+                "y": 312,
+                "width": 75,
+                "height": 17
+            }
+        },
+        {
+            "text": "visualized",
+            "location": {
+                "x": 300,
+                "y": 312,
+                "width": 75,
+                "height": 13
+            }
+        },
+        {
+            "text": "and",
+            "location": {
+                "x": 383,
+                "y": 312,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "can",
+            "location": {
+                "x": 415,
+                "y": 316,
+                "width": 24,
+                "height": 9
+            }
+        },
+        {
+            "text": "easily",
+            "location": {
+                "x": 447,
+                "y": 312,
+                "width": 43,
+                "height": 17
+            }
+        },
+        {
+            "text": "interact",
+            "location": {
+                "x": 497,
+                "y": 312,
+                "width": 56,
+                "height": 13
+            }
+        },
+        {
+            "text": "with",
+            "location": {
+                "x": 558,
+                "y": 312,
+                "width": 32,
+                "height": 13
+            }
+        },
+        {
+            "text": "human",
+            "location": {
+                "x": 598,
+                "y": 312,
+                "width": 50,
+                "height": 13
+            }
+        },
+        {
+            "text": "users.",
+            "location": {
+                "x": 654,
+                "y": 316,
+                "width": 42,
+                "height": 9
+            }
+        },
+        {
+            "text": "Through",
+            "location": {
+                "x": 22,
+                "y": 338,
+                "width": 64,
+                "height": 17
+            }
+        },
+        {
+            "text": "two",
+            "location": {
+                "x": 91,
+                "y": 341,
+                "width": 26,
+                "height": 11
+            }
+        },
+        {
+            "text": "examples",
+            "location": {
+                "x": 122,
+                "y": 338,
+                "width": 69,
+                "height": 17
+            }
+        },
+        {
+            "text": "in",
+            "location": {
+                "x": 196,
+                "y": 338,
+                "width": 14,
+                "height": 13
+            }
+        },
+        {
+            "text": "mathematics",
+            "location": {
+                "x": 215,
+                "y": 338,
+                "width": 93,
+                "height": 13
+            }
+        },
+        {
+            "text": "and",
+            "location": {
+                "x": 313,
+                "y": 338,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "physics,",
+            "location": {
+                "x": 344,
+                "y": 338,
+                "width": 59,
+                "height": 17
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 409,
+                "y": 338,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "are",
+            "location": {
+                "x": 460,
+                "y": 342,
+                "width": 22,
+                "height": 9
+            }
+        },
+        {
+            "text": "shown",
+            "location": {
+                "x": 487,
+                "y": 338,
+                "width": 47,
+                "height": 13
+            }
+        },
+        {
+            "text": "to",
+            "location": {
+                "x": 539,
+                "y": 341,
+                "width": 13,
+                "height": 11
+            }
+        },
+        {
+            "text": "be",
+            "location": {
+                "x": 557,
+                "y": 338,
+                "width": 17,
+                "height": 13
+            }
+        },
+        {
+            "text": "useful",
+            "location": {
+                "x": 578,
+                "y": 338,
+                "width": 45,
+                "height": 13
+            }
+        },
+        {
+            "text": "\u201ccollabo-",
+            "location": {
+                "x": 628,
+                "y": 338,
+                "width": 69,
+                "height": 13
+            }
+        },
+        {
+            "text": "rators\u201d",
+            "location": {
+                "x": 22,
+                "y": 364,
+                "width": 50,
+                "height": 13
+            }
+        },
+        {
+            "text": "helping",
+            "location": {
+                "x": 78,
+                "y": 364,
+                "width": 55,
+                "height": 17
+            }
+        },
+        {
+            "text": "scientists",
+            "location": {
+                "x": 139,
+                "y": 364,
+                "width": 66,
+                "height": 13
+            }
+        },
+        {
+            "text": "(re)discover",
+            "location": {
+                "x": 212,
+                "y": 364,
+                "width": 89,
+                "height": 16
+            }
+        },
+        {
+            "text": "mathematical",
+            "location": {
+                "x": 305,
+                "y": 364,
+                "width": 99,
+                "height": 13
+            }
+        },
+        {
+            "text": "and",
+            "location": {
+                "x": 410,
+                "y": 364,
+                "width": 26,
+                "height": 13
+            }
+        },
+        {
+            "text": "physical",
+            "location": {
+                "x": 442,
+                "y": 364,
+                "width": 61,
+                "height": 17
+            }
+        },
+        {
+            "text": "laws.",
+            "location": {
+                "x": 509,
+                "y": 364,
+                "width": 37,
+                "height": 13
+            }
+        },
+        {
+            "text": "In",
+            "location": {
+                "x": 552,
+                "y": 364,
+                "width": 15,
+                "height": 13
+            }
+        },
+        {
+            "text": "summary,",
+            "location": {
+                "x": 573,
+                "y": 368,
+                "width": 71,
+                "height": 13
+            }
+        },
+        {
+            "text": "KANs",
+            "location": {
+                "x": 650,
+                "y": 364,
+                "width": 46,
+                "height": 13
+            }
+        },
+        {
+            "text": "are",
+            "location": {
+                "x": 23,
+                "y": 394,
+                "width": 22,
+                "height": 9
+            }
+        },
+        {
+            "text": "promising",
+            "location": {
+                "x": 51,
+                "y": 391,
+                "width": 76,
+                "height": 17
+            }
+        },
+        {
+            "text": "alternatives",
+            "location": {
+                "x": 132,
+                "y": 391,
+                "width": 84,
+                "height": 13
+            }
+        },
+        {
+            "text": "for",
+            "location": {
+                "x": 224,
+                "y": 391,
+                "width": 22,
+                "height": 13
+            }
+        },
+        {
+            "text": "MLPs,",
+            "location": {
+                "x": 250,
+                "y": 391,
+                "width": 49,
+                "height": 16
+            }
+        },
+        {
+            "text": "opening",
+            "location": {
+                "x": 307,
+                "y": 391,
+                "width": 59,
+                "height": 17
+            }
+        },
+        {
+            "text": "opportunities",
+            "location": {
+                "x": 373,
+                "y": 391,
+                "width": 97,
+                "height": 17
+            }
+        },
+        {
+            "text": "for",
+            "location": {
+                "x": 477,
+                "y": 391,
+                "width": 21,
+                "height": 13
+            }
+        },
+        {
+            "text": "further",
+            "location": {
+                "x": 505,
+                "y": 391,
+                "width": 51,
+                "height": 13
+            }
+        },
+        {
+            "text": "improving",
+            "location": {
+                "x": 561,
+                "y": 391,
+                "width": 77,
+                "height": 17
+            }
+        },
+        {
+            "text": "today\u2019s",
+            "location": {
+                "x": 644,
+                "y": 391,
+                "width": 53,
+                "height": 17
+            }
+        },
+        {
+            "text": "deep",
+            "location": {
+                "x": 22,
+                "y": 417,
+                "width": 35,
+                "height": 17
+            }
+        },
+        {
+            "text": "learning",
+            "location": {
+                "x": 62,
+                "y": 416,
+                "width": 60,
+                "height": 17
+            }
+        },
+        {
+            "text": "models",
+            "location": {
+                "x": 128,
+                "y": 417,
+                "width": 53,
+                "height": 13
+            }
+        },
+        {
+            "text": "which",
+            "location": {
+                "x": 187,
+                "y": 416,
+                "width": 44,
+                "height": 13
+            }
+        },
+        {
+            "text": "rely",
+            "location": {
+                "x": 237,
+                "y": 417,
+                "width": 28,
+                "height": 17
+            }
+        },
+        {
+            "text": "heavily",
+            "location": {
+                "x": 271,
+                "y": 416,
+                "width": 54,
+                "height": 17
+            }
+        },
+        {
+            "text": "on",
+            "location": {
+                "x": 330,
+                "y": 421,
+                "width": 17,
+                "height": 9
+            }
+        },
+        {
+            "text": "MLPs.",
+            "location": {
+                "x": 353,
+                "y": 417,
+                "width": 49,
+                "height": 13
+            }
+        }
+    ]
+]
