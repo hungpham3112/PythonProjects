@@ -1,9 +1,9 @@
 [submodule "hungpham3112"]
 	path = hungpham3112
 	url = https://github.com/hungpham3112/hungpham3112.git
-[submodule "AI-Web"]
-	path = AI-Web
+[submodule "ai-web"]
+	path = ai-web
 	url = https://github.com/hungpham3112/AI-Web.git
-[submodule "SummarizationApp"]
-	path = SummarizationApp
+[submodule "summarization-app"]
+	path = summarization-app
 	url = https://github.com/hungpham3112/text_summarizer_web_app
